@@ -1,0 +1,7 @@
+{
+  "name": "ElectionMana",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
